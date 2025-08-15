@@ -1,0 +1,14 @@
+{
+  "layer": 11,
+  "scale": 0.7,
+  "benign_n": 100,
+  "toxic_n": 100,
+  "benign_source": "alpaca",
+  "benign_chat_refusal_rate": 0.01,
+  "benign_patched_refusal_rate": 0.01,
+  "benign_kl_anchor_vs_patched_mean": 3.955117685198784,
+  "benign_kl_anchor_vs_patched_p90": 5.390437841415405,
+  "toxic_chat_refusal_rate": 0.99,
+  "toxic_patched_refusal_rate": 0.09,
+  "toxic_acceptance_gain": 0.9
+}
