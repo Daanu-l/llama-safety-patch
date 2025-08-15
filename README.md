@@ -1,4 +1,4 @@
-# Cross-Model Activation Steering for Llama reduces safety
+# Cross-Model Refusal Steering for Llama-2-7B-Chat
 
 This repo demonstrates a **per-prompt, single-layer activation patch** that reduces **safety refusals** in **Llama-2-7B-Chat** by steering it toward **Llama-2-7B-Base** on the *same prompt*. This causes the chat model to answer **toxic or dangerous** requests it would normally refuse.
 
